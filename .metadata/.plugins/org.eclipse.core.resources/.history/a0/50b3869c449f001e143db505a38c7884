@@ -1,0 +1,13 @@
+package vijay;
+
+public class Test3 {
+
+	public static void main(String[] args) {
+		
+	float x =11;
+	System.out.println("The value of x is:-"+x);
+		
+
+	}
+
+}

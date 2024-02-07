@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-27T22:36:48 IST" name="Default suite" finished-at="2024-01-27T22:36:58 IST" duration-ms="9956">
+    <groups>
+    </groups>
+    <test started-at="2024-01-27T22:36:48 IST" name="Default test" finished-at="2024-01-27T22:36:58 IST" duration-ms="9956">
+      <class name="restassured.restassuredd.Fetch_create_pudate">
+        <test-method signature="fetchdata()[pri:1, instance:restassured.restassuredd.Fetch_create_pudate@5e82df6a]" started-at="2024-01-27T22:36:48 IST" name="fetchdata" finished-at="2024-01-27T22:36:56 IST" duration-ms="7965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchdata -->
+        <test-method signature="createdata()[pri:2, instance:restassured.restassuredd.Fetch_create_pudate@5e82df6a]" started-at="2024-01-27T22:36:56 IST" name="createdata" finished-at="2024-01-27T22:36:57 IST" duration-ms="1189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createdata -->
+        <test-method signature="updatedata()[pri:3, instance:restassured.restassuredd.Fetch_create_pudate@5e82df6a]" started-at="2024-01-27T22:36:57 IST" name="updatedata" finished-at="2024-01-27T22:36:58 IST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatedata -->
+      </class> <!-- restassured.restassuredd.Fetch_create_pudate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

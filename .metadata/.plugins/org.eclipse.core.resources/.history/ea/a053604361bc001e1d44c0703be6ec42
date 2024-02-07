@@ -1,0 +1,33 @@
+package restassured.restassuredd;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+
+import static io.restassured.RestAssured.*;
+import static io.restassured.matcher.RestAssuredMatchers.*;
+import static org.hamcrest.Matchers.*;
+
+public class Fetchdata {
+
+	@Test
+	void getdata()
+	{
+		  
+		
+		given()
+		
+		
+		.when()
+		.get("https://reqres.in/api/users?page=2")
+		
+		.then()
+		.statusCode(200)
+		.log().all();
+	}
+
+	
+		
+	}
+	
+

@@ -1,0 +1,23 @@
+package vijay;
+
+public class test4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int a=10;
+		int b=12;
+		
+		System.out.println(a>b); //false
+		System.out.println(a<b);  //true
+		System.out.println(a>=b);  //false  
+		System.out.println(a<=b);  //true
+		
+		float c=12.3;
+		float d=13;
+		
+		
+
+	}
+
+}
