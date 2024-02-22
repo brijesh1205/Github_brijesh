@@ -24,7 +24,7 @@ public class Ifelse {
 //	float x=23;
 //	System.out.println("The value of x is:-"+x);
 		
- boolean legel =false;
+ boolean legel =true;
  boolean inlegal =true;
  System.out.println("The statment is:-"+legel);
 
