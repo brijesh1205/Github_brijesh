@@ -1201,3 +1201,15 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.testng:te
 2024-01-27 23:08:30,711 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@416d8e70{STOPPING}[10.0.15,sto=0]
 2024-01-27 23:08:30,724 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@19161075{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
 2024-01-27 23:08:30,758 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@42fd2ea3{/help,null,STOPPED}
+2024-02-19 15:51:40,127 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-19 16:07:29,753 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-19 16:09:04,952 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-19 16:09:04,960 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\RAKESH ENTERPRISES\eclipse-workspace\restassuredd\src\main\resources
+2024-02-19 16:09:04,980 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-19 16:09:04,983 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\RAKESH ENTERPRISES\eclipse-workspace\restassuredd\src\test\resources
+2024-02-19 16:46:09,760 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-19 16:50:19,294 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-19 16:52:09,969 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-19 16:52:09,975 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\RAKESH ENTERPRISES\eclipse-workspace\restassuredd\src\main\resources
+2024-02-19 16:52:09,988 [Worker-1: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-02-19 16:52:09,992 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\RAKESH ENTERPRISES\eclipse-workspace\restassuredd\src\test\resources
